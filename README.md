@@ -3,7 +3,12 @@
 
 -- testing react leaflet
 
-geodata taken from - https://datahub.io/core/geo-countries#data
+
+React Leaflet
+https://react-leaflet.js.org/
+
+geodata (country outlines and names)
+https://datahub.io/core/geo-countries#data
 
 
 to do:
